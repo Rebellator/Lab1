@@ -17,4 +17,3 @@ Yandex API
 
 ## Скріни
 ![screen1](1.jpg)
-![screen2](2.jpg)
